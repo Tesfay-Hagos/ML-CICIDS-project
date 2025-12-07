@@ -1,2 +1,7 @@
 MachineLearningCSV
 GeneratedLabelledFlows
+*.md
+*.txt
+*.log
+*.json
+*.xml
