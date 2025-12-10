@@ -1,7 +1,6 @@
 MachineLearningCSV
 GeneratedLabelledFlows
 data
-*.md
 *.txt
 *.log
 *.json
